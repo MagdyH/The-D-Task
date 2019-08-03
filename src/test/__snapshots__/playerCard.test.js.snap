@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayerCard component should render snapshot 1`] = `
+<div
+  className="row p-2"
+  style={
+    Object {
+      "backgroundColor": "#E6E6E6",
+    }
+  }
+>
+  <div
+    className="p-0 w-25"
+  >
+    <img
+      alt=""
+      className="rounded-circle"
+      src="unkown-profile-pic.jpg"
+      style={
+        Object {
+          "height": "50px",
+        }
+      }
+    />
+  </div>
+</div>
+`;

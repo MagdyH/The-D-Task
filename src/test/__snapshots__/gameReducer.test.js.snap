@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game Reducer is working 1`] = `
+Object {
+  "games": undefined,
+  "storedGames": Array [],
+}
+`;
+
+exports[`Game Reducer is working 2`] = `
+Object {
+  "games": Array [],
+  "storedGames": Array [],
+}
+`;

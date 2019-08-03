@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.searchbar{
+  margin-bottom: auto;
+  margin-top: auto;
+  height: 60px;
+  background-color: #719dca;
+  border-radius: 30px;
+  padding: 10px;
+  }
+
+  .search_input{
+  color: #7F7F7F;
+  border: 0;
+  outline: 0;
+  background: none;
+  width: 0;
+  caret-color:transparent;
+  line-height: 40px;
+  transition: width 0.4s linear;
+  }
+
+  .searchbar:hover > .search_input{
+  padding: 0 10px;
+  width: 450px;
+  caret-color:#3BA3FB;
+  transition: width 0.4s linear;
+  }
+
+  .searchbar:hover > .search_icon{
+    background: white;
+    color: #3BA3FB;
+    }
+
+    .search_icon{
+    height: 40px;
+    width: 40px;
+    float: right;
+    }
+ .club-card{
+   background-color: #BCE0FD;
+   color: #2699FB;
+ } 
+ .game-card{
+  background-color:#EEF0F7;
+  color:#7F7F7F;
+ }
+ .game-card-img{
+   height: 50px;
+   width: 70px;
+ } 
+ .player-card{
+  background-color:#E6E6E6
+ } 
+
+ .player-img{
+   height: 50px;
+ }
+
+ .club-data{
+  color: #7F7F7F
+ }
+
+ .header{
+  background-color:#3BA3FB
+ }
+
+ .header-img{
+   height: 60px;
+   width: 150px;
+ }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

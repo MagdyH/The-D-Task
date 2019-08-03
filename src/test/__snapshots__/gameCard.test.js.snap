@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameCard component should render snapshot 1`] = `
+<div
+  className="my-4"
+  style={
+    Object {
+      "backgroundColor": "#EEF0F7",
+      "color": "#7F7F7F",
+    }
+  }
+/>
+`;

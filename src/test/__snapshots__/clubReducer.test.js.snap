@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Club Reducer is working 1`] = `
+Object {
+  "clubs": Array [],
+  "searchMode": "",
+  "storedClubs": Array [],
+}
+`;
+
+exports[`Club Reducer is working 2`] = `
+Object {
+  "clubs": undefined,
+  "searchMode": "",
+  "storedClubs": undefined,
+}
+`;

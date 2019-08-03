@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render snapshot 1`] = `
+Array [
+  <div>
+    <header>
+      <nav
+        className="navbar navbar-expand-lg navbar-light"
+        style={
+          Object {
+            "backgroundColor": "#3BA3FB",
+          }
+        }
+      >
+        <img
+          alt=""
+          className="d-inline-block align-top"
+          src="image-not-found.png"
+          style={
+            Object {
+              "height": "60px",
+              "width": "150px",
+            }
+          }
+        />
+        <div
+          className="collapse navbar-collapse"
+        >
+          <ul
+            className="navbar-nav"
+          >
+            <li
+              className="nav-item"
+            />
+            <li
+              className="nav-item"
+            >
+              <a
+                className="nav-link text-white"
+                href="/FixturesResults"
+                onClick={[Function]}
+              >
+                Fixtures Results
+              </a>
+            </li>
+            <li
+              className="nav-item"
+            >
+              <a
+                className="nav-link text-white"
+                href="/Clubs"
+                onClick={[Function]}
+              >
+                Clubs
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="mt-4"
+        />
+      </nav>
+    </header>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="row col-md-12"
+        />
+      </div>
+    </div>
+  </div>,
+  " ",
+]
+`;
