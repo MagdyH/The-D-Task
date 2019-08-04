@@ -1,8 +1,9 @@
 This project for The D. company.
 
 ## how to run
+git colne of this repository runing this command :*git colne https://github.com/MagdyH/The-D-Task.git.*</br>
 
-In the project directory, where package.json file run:
+In the project directory, where *package.json* file run:
 
 ### `npm install`
 
