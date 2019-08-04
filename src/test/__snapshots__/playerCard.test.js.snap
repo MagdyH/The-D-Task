@@ -2,25 +2,15 @@
 
 exports[`PlayerCard component should render snapshot 1`] = `
 <div
-  className="row p-2"
-  style={
-    Object {
-      "backgroundColor": "#E6E6E6",
-    }
-  }
+  className="row p-2 player-card"
 >
   <div
     className="p-0 w-25"
   >
     <img
       alt=""
-      className="rounded-circle"
+      className="rounded-circle player-img"
       src="unkown-profile-pic.jpg"
-      style={
-        Object {
-          "height": "50px",
-        }
-      }
     />
   </div>
 </div>

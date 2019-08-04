@@ -5,25 +5,3 @@ exports[`ClubCard component should render snapshot 1`] = `
   className="col-sm-9 my-4"
 />
 `;
-
-exports[`GameList component should render snapshot 1`] = `
-<div
-  className="container"
-  style={
-    Object {
-      "color": "#7F7F7F",
-    }
-  }
->
-  <div
-    className="row my-5"
-  >
-    <div
-      className="col-md-9"
-    />
-    <div
-      className="my-4 col-md-3 Scrollable "
-    />
-  </div>
-</div>
-`;

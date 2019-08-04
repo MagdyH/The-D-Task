@@ -2,12 +2,7 @@
 
 exports[`ClubData component should render snapshot 1`] = `
 <div
-  className="container"
-  style={
-    Object {
-      "color": "#7F7F7F",
-    }
-  }
+  className="container club-data"
 >
   <div
     className="row"

@@ -5,23 +5,12 @@ Array [
   <div>
     <header>
       <nav
-        className="navbar navbar-expand-lg navbar-light"
-        style={
-          Object {
-            "backgroundColor": "#3BA3FB",
-          }
-        }
+        className="navbar navbar-expand-lg navbar-light header"
       >
         <img
           alt=""
-          className="d-inline-block align-top"
-          src="image-not-found.png"
-          style={
-            Object {
-              "height": "60px",
-              "width": "150px",
-            }
-          }
+          className="d-inline-block align-top header-img mx-4"
+          src="The-D-GmbH.png"
         />
         <div
           className="collapse navbar-collapse"
